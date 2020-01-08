@@ -1,0 +1,61 @@
+exp1:
+*NO NEED FOR CONCLUSION N AIM*
+part a)various image formats and their compression techniques
+part b ) brief writing about python and openCV
+
+exp2:
+part a) read image into python
+	display
+	display 10 array elements
+	display no. of rows and colums and dimensions
+
+part b) convert the color image to grayscale
+	display
+	display 10 array elements
+	display no. of rows and colums and dimensions
+
+part c) convert the grayscale image to b/w
+	display
+	display 10 array elements
+	display no. of rows and colums and dimensions
+
+part b) size on disk
+	display	size on disk of color image
+	display size on disk of grayscale image
+	display size on disk of b&w image.
+
+
+
+
+
+exp3:
+Perform logical and arithmatic operations on a grayscale image
+add sub mul div (observer output image)(think of applications)
+
+logical operations on binary images (b &w). generate image of your choice
+
+
+exp4:
+Perform all basic geometric transfomration techniques.
+	identity
+	scaling
+	translation
+	rotation
+	shear horizontal
+	shear vertical
+
+
+exp5:
+Intesity / grayscale transformation technique
+	negative
+	log transformation
+	power law
+		a)gamma > 1   b) r<1
+	contrast stretching
+	gray level	
+
+
+
+
+
+	

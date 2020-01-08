@@ -1,0 +1,12 @@
+https://docs.opencv.org/3.4/d5/d98/tutorial_mat_operations.html
+https://docs.opencv.org/3.1.0/dc/d2e/tutorial_py_image_display.html
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_core/py_basic_ops/py_basic_ops.html
+https://docs.opencv.org/master/d3/df2/tutorial_py_basic_ops.html
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformations/py_geometric_transformations.html
+https://theailearner.com/2019/01/01/log-transformation/
+https://theailearner.com/2019/01/26/power-law-gamma-transformations/
+https://theailearner.com/2019/05/06/smoothing-filters/
+https://theailearner.com/2019/05/14/unsharp-masking-and-highboost-filtering/
+https://www.tutorialspoint.com/dip/laplacian_operator.htm
+https://docs.opencv.org/master/d1/db7/tutorial_py_histogram_begins.html
+https://scikit-image.org/docs/stable/auto_examples/index.html
